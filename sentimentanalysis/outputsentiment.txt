@@ -1,0 +1,767 @@
+Python 2.7.12 (default, Jul  1 2016, 15:12:24) 
+[GCC 5.4.0 20160609] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+=================== RESTART: /home/agasthya/jsondecrypt.py ===================
+@British_Airways I've been waiting over 3 weeks, how long am I expecting to wait? Ridiculous
+compound: -0.3612, 
+neg: 0.172, 
+neu: 0.828, 
+pos: 0.0, 
+@IndiGo6E thank you for the torture. Delayed flight. Failed assurance. Ride call centre executives.
+compound: -0.6369, 
+neg: 0.396, 
+neu: 0.391, 
+pos: 0.213, 
+Check out my profile on Escort-Ads ukra https://t.co/8BLfTSkoFd
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @DavidJo52951945: A message to all Brits, do not go to muslim countries https://t.co/Oev5pq9glt
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+And they want these barbaric laws all over the world. Stockholm syndrome https://t.co/7NvRNNr5IJ
+compound: 0.0772, 
+neg: 0.0, 
+neu: 0.902, 
+pos: 0.098, 
+@AmericanAir you are a dumpster fire of an airline
+compound: -0.4588, 
+neg: 0.4, 
+neu: 0.6, 
+pos: 0.0, 
+Emirates Says Rolls-Royce A380 Engines Not Up to Agreed Standard https://t.co/hIko9hKxMb
+compound: 0.2732, 
+neg: 0.0, 
+neu: 0.826, 
+pos: 0.174, 
+Headed to Wilmington on americanair #weddingscout @ Miami International Airport - MIA https://t.co/Hn3IRIYt5n
+compound: -0.4466, 
+neg: 0.227, 
+neu: 0.773, 
+pos: 0.0, 
+United Arab Emirates law against #raped women is chauvinistic lobbying for men. https://t.co/wxXrYQXzgD
+compound: 0.3612, 
+neg: 0.086, 
+neu: 0.728, 
+pos: 0.185, 
+I wonder if the fact that, even though it's a @British_Airways flight, I booked under an @AmericanAir flight number... #neverflywithjimevans
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Pray 4passengers @AmericanAir who disrespected family of Sgt. John Perry. May their hearts heal from whatever sadness caused their actions
+compound: -0.5574, 
+neg: 0.234, 
+neu: 0.675, 
+pos: 0.091, 
+In last season's first match at Emirates, it was already 3-0 in favor of Arsenal
+compound: 0.4019, 
+neg: 0.0, 
+neu: 0.838, 
+pos: 0.162, 
+RT @jalloyd4: @British_Airways You lost my bag in #Amsterdam in September and it is still lost, now my flight to #Tampa today is delayed.
+compound: -0.6705, 
+neg: 0.236, 
+neu: 0.764, 
+pos: 0.0, 
+@DamiElebe @UcheBriggs @thejidetaiwo But then there's also Qatar and Barcelona, Arsenal and Emirates
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RARE! Soccor Team #RealMadrid Fly Emirates #Jersey BABY ONESIE 6-12M https://t.co/NiLKEL05k5 #CR7 #HalaMadrid https://t.co/GmRlRuiW03
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Wenger relax abeg cuz that seat u no dey emirates #Mufc
+compound: 0.1779, 
+neg: 0.168, 
+neu: 0.611, 
+pos: 0.221, 
+#Emirates #Airline says some technical issues with Rolls-Royce #A380 engines - Zawya : https://t.co/m6jzJ4HVGA
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@AmericanAir Can you confirm if american is coming back to brussels next year with another destination?
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways "..for parents or guardian... "??? I think you mean "..of parents.."? Am I right?
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Now hiring for: Health Food Chef de Cuisine Restaurant Company Dubai in Dubai, United Arab Emirates https://t.co/0djzlOg1yd #job
+compound: 0.4215, 
+neg: 0.0, 
+neu: 0.859, 
+pos: 0.141, 
+RT @jalloyd4: @British_Airways You lost my bag in #Amsterdam in September and it is still lost, now my flight to #Tampa today is delayed.
+compound: -0.6705, 
+neg: 0.236, 
+neu: 0.764, 
+pos: 0.0, 
+I would give Man U a blank cheque to bring Rashford to the emirates
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @Arn_Del: #BREAKING - Video of an Emirates AT-802 performing an airstrike on #Ganfouda #Benghazi https://t.co/wYgJ2hn7ty
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@AmericanAir Thank you! Some of your wonderful agents did me a huge favor and got my return flight for my honeymoon booked. So grateful!
+compound: 0.9334, 
+neg: 0.0, 
+neu: 0.544, 
+pos: 0.456, 
+In all likelihood, l will be at the Arsenal-United return fixture at the Emirates in May. Would be a dream come true.
+compound: 0.5859, 
+neg: 0.0, 
+neu: 0.789, 
+pos: 0.211, 
+@DaveWallsworth @British_Airways 567 Tons!?
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways @e11ablack8  I've checked in now so booking bags can't happen. Second time this trip the website has failed
+compound: -0.5106, 
+neg: 0.155, 
+neu: 0.845, 
+pos: 0.0, 
+@theseanodell @AmericanAir Don't they know who you are?!?
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@IndiGo6E Can we carry an infants stroller as checked in luggage? Not mentioned in the FAQs
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@AmericanAir #Grandson Isaiah says thanks #pilots for hospitality #vacation #Hotlanta here we come https://t.co/Fctg5J5i04
+compound: 0.4404, 
+neg: 0.0, 
+neu: 0.818, 
+pos: 0.182, 
+@dutweets Dear Du,
+We need arabic commentators for football games!!we are in united arab emirates!!
+compound: 0.7627, 
+neg: 0.0, 
+neu: 0.664, 
+pos: 0.336, 
+I thought the game was going to be at the Emirates.
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+#AA1708 crew was amazing! Thanks for a great flight @AlaskaAir @AmericanAir
+compound: 0.902, 
+neg: 0.0, 
+neu: 0.387, 
+pos: 0.613, 
+RT @politically_cor: Our weak leaders should be demanding release or pay consequences. Saudi should be flattened. https://t.co/QZR1hMO9aB
+compound: -0.6369, 
+neg: 0.307, 
+neu: 0.693, 
+pos: 0.0, 
+Absolute fucking joke, if that's at the Emirates Arsenal are getting a pen
+compound: 0.3597, 
+neg: 0.0, 
+neu: 0.815, 
+pos: 0.185, 
+Throw back to the summer when I walked through the Emirates. Hope you wankas blow it #MUFCvAFC https://t.co/8iF7R1er3x
+compound: 0.4404, 
+neg: 0.0, 
+neu: 0.847, 
+pos: 0.153, 
+RT @Arn_Del: #BREAKING - Video of an Emirates AT-802 performing an airstrike on #Ganfouda #Benghazi https://t.co/wYgJ2hn7ty
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@AmericanAir STOP telling me I have to check my guitar bc it won't fit on plane https://t.co/ExtKBIYVnZ. Your employees are wearing me out.
+compound: -0.6178, 
+neg: 0.201, 
+neu: 0.799, 
+pos: 0.0, 
+@British_Airways have come on a bit! https://t.co/tYW4oskLkD
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @Arn_Del: An Emirates Wing Loong UAV over #Ganfouda (#Benghazi) (photo credit #BRSC) https://t.co/9vQTHEslVp
+compound: 0.3818, 
+neg: 0.0, 
+neu: 0.833, 
+pos: 0.167, 
+@riyarahiman @IndiGo6E They said they will get back to me in sometime. Fingers crossed!
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Its a long layover when I manage to enjoy 2 meals in @British_Airways Concorde Room @HeathrowAirport T5
+compound: 0.4939, 
+neg: 0.0, 
+neu: 0.802, 
+pos: 0.198, 
+We give you 6 for the bridge. Shut up https://t.co/Pc6t96oDN9
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Eva Longoria Presents the Global Gift Our Heroes Award 2015 at Emirates Stadium in London https://t.co/AZ3vtOmXMB #EvaLongoria
+compound: 0.8658, 
+neg: 0.0, 
+neu: 0.591, 
+pos: 0.409, 
+@British_Airways your people are great, your customer service processes are antiquated, change quickly or you won't  last long
+compound: 0.6249, 
+neg: 0.0, 
+neu: 0.806, 
+pos: 0.194, 
+@British_Airways no I didn't checkin yet. Was waiting to hear back from you to add my suitcase. Will DM now
+compound: -0.296, 
+neg: 0.109, 
+neu: 0.891, 
+pos: 0.0, 
+I appear to have changed my watch screen to a @British_Airways aeroplane wing last night....#planedaft #plaindaft https://t.co/2XULMS5jSQ
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@flyspicejet where legroom is barely enough for an iPad.  #nolegroom https://t.co/MH46XjXaN6
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@AmericanAir but I just found out you guys have free movies so we're good
+compound: 0.8663, 
+neg: 0.0, 
+neu: 0.558, 
+pos: 0.442, 
+A photo of painting will replace Dubai if painting don't face the painting of ISLAM ! https://t.co/xL9kA0Bz3v
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Robbed on home soil. I wonder what will happen on the return match at Emirates. .#ManUArs
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways yes, but that is not what is stated in the email I received. So the email is intended to deceive me as a customer?
+compound: -0.4019, 
+neg: 0.134, 
+neu: 0.795, 
+pos: 0.07, 
+@AmericanAir lying to your customers is a great way to gain customer loyalty
+compound: 0.8225, 
+neg: 0.152, 
+neu: 0.357, 
+pos: 0.491, 
+My flight is delayed right now because the plane is missing a coffee pot. They are looking for a fucking coffee pot. @AmericanAir
+compound: -0.4767, 
+neg: 0.177, 
+neu: 0.823, 
+pos: 0.0, 
+@AmericanAir SLC agent "It's not rocket science," after taking 25 min to check-in family of 4 at kiosk. AA1598 SLC-PHX. Classy.
+compound: 0.4404, 
+neg: 0.0, 
+neu: 0.868, 
+pos: 0.132, 
+@Metalosphy666 tsk tsk. Emirates spending 1bn aed and instead ur supporting Mourinho and his gang of clowns
+compound: 0.4404, 
+neg: 0.0, 
+neu: 0.847, 
+pos: 0.153, 
+@AmericanAir it's amazing how bad you can be as a company at what you do.
+compound: 0.0772, 
+neg: 0.181, 
+neu: 0.622, 
+pos: 0.197, 
+Emirates says Rolls-Royce A380 engines not up to agreed standard https://t.co/aVcapq1F4k https://t.co/MlHuTc2NJq
+compound: -0.2057, 
+neg: 0.142, 
+neu: 0.858, 
+pos: 0.0, 
+Flight #EK385 (Emirates) to Bangkok,Dubai departed at 21:13.
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @jalloyd4: @British_Airways You lost my bag in #Amsterdam in September and it is still lost, now my flight to #Tampa today is delayed.
+compound: -0.6705, 
+neg: 0.236, 
+neu: 0.764, 
+pos: 0.0, 
+Will Donald Trump Save @AmericanAir Flights to Sydney &amp; Auckland Now that DOT Ruled Against Qantas Joint Venture? https://t.co/ZOSDlcWTAz
+compound: 0.4939, 
+neg: 0.0, 
+neu: 0.849, 
+pos: 0.151, 
+Seriously @AmericanAir I've never known so many PAs to be made on a night flight
+compound: -0.1779, 
+neg: 0.116, 
+neu: 0.884, 
+pos: 0.0, 
+Today 2 members are doing Jailbreak for @ACF_UK Can you help them travel for no money? Looking for any free flight seats @Qantas @emirates
+compound: 0.5859, 
+neg: 0.078, 
+neu: 0.709, 
+pos: 0.213, 
+Hector Couto is playing @ #Level 42 #Dubai #United Arab Emirates, Fri 09 Dec 2016  #gigs
+compound: 0.2023, 
+neg: 0.0, 
+neu: 0.886, 
+pos: 0.114, 
+Kenapa main di old traffod , please la emirates stadium
+compound: 0.3182, 
+neg: 0.0, 
+neu: 0.777, 
+pos: 0.223, 
+@ emirates heritage club https://t.co/o2lVXGmrgV
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@sjDCC @British_Airways All v well but I will v much miss the Scottish lemon shortbread, &amp; the early morning breakfast has saved many days!
+compound: 0.5635, 
+neg: 0.075, 
+neu: 0.707, 
+pos: 0.218, 
+@DaveWallsworth @British_Airways Good flight. Take beautiful pictures
+compound: 0.7783, 
+neg: 0.0, 
+neu: 0.424, 
+pos: 0.576, 
+@DaveWallsworth @British_Airways going out circa 30mt under MTOW?
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@tweetermo this has nothing to do with emirates, been supporting em long time...
+compound: 0.4404, 
+neg: 0.0, 
+neu: 0.805, 
+pos: 0.195, 
+@AmericanAir is just telling every poor soul that goes up to the counter that that are shit out of luck.
+compound: -0.5719, 
+neg: 0.251, 
+neu: 0.637, 
+pos: 0.112, 
+@DaveWallsworth @British_Airways  will track u up the malacca straights then onto India don't b toooo late lol
+compound: -0.3252, 
+neg: 0.143, 
+neu: 0.857, 
+pos: 0.0, 
+@British_Airways forges closer ties with Alaska #Airlines - The C Suite : https://t.co/z0w03VA58f
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+America's Cup - Emirates Team NZ say 60 points on offer on Sunday https://t.co/dd00FIsWWn https://t.co/E3pZqtJVGs
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@AmericanAir is telling every poor soul that walks up to the counter that they are shit out of luck.
+compound: -0.5719, 
+neg: 0.261, 
+neu: 0.623, 
+pos: 0.117, 
+@InghamsHolidays I don't need it you guys need to call @British_Airways to sort out my flight issues not me !
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways brand new car seat put in with hold luggage and badly damaged. Cust ser not accepting complaint- outside 7 day time period
+compound: -0.7427, 
+neg: 0.292, 
+neu: 0.641, 
+pos: 0.067, 
+RT @MartinGarrix: Thank you to the @emirates check-in staff Kolkata for your great help getting us home.
+compound: 0.8519, 
+neg: 0.0, 
+neu: 0.601, 
+pos: 0.399, 
+@jetairways expands #codesharepact with @KenyaAirways 
+https://t.co/9P6ZZEFoX5
+compound: 0.1027, 
+neg: 0.0, 
+neu: 0.781, 
+pos: 0.219, 
+@jetairways expands #codesharepact with @KenyaAirways 
+https://t.co/6CWvfJquI9
+compound: 0.1027, 
+neg: 0.0, 
+neu: 0.781, 
+pos: 0.219, 
+On board with @AmericanAir ! Here's to a comfy flight!!! USA here I come! Wheels up shortly!
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @business: Mark Zuckerberg pokes the United Arab Emirates for blocking WhatsApp https://t.co/RmbdhY19mi https://t.co/WNgSkTxGDr
+compound: 0.0516, 
+neg: 0.149, 
+neu: 0.69, 
+pos: 0.161, 
+Rolls-Royce share price: #Emirates flags technical issues with engines for #A380 - iNVEZZ : https://t.co/jpM9c2l15S
+compound: 0.296, 
+neg: 0.0, 
+neu: 0.845, 
+pos: 0.155, 
+@British_Airways will you pay for the 2 guitars that are missing and needed for a show in Mexico tomorrow..
+compound: -0.3818, 
+neg: 0.194, 
+neu: 0.806, 
+pos: 0.0, 
+Mackenzie Miller, 13, speaks out about sexual assault on @AmericanAir #flight - @MailOnline : https://t.co/xVAjP46oZ1
+compound: -0.5859, 
+neg: 0.241, 
+neu: 0.759, 
+pos: 0.0, 
+@AmericanAir why do you lie to people about room in the overhead bin?
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways it was worth a shot :P
+compound: 0.6166, 
+neg: 0.0, 
+neu: 0.443, 
+pos: 0.557, 
+@DaveWallsworth @British_Airways Good and safe flight!
+compound: 0.7263, 
+neg: 0.0, 
+neu: 0.396, 
+pos: 0.604, 
+UK charity warns tourists in Dubai not to report rape after woman who was 'gang raped' arrested https://t.co/mRmD2041j6
+compound: -0.374, 
+neg: 0.318, 
+neu: 0.454, 
+pos: 0.228, 
+@IndiGo6E can you delete the PNR here
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Which A380 do you prefer?
+@emirates, @qatarairways or @EtihadAirways?
+
+#emirates #qatarairways #etihadairways #a380 https://t.co/X0seHVCwak
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@aaronramsey you're banded from the ends, after this game we don't wanna see you at the Emirates NO MO!
+compound: -0.4981, 
+neg: 0.152, 
+neu: 0.848, 
+pos: 0.0, 
+The latest A380 Airbus News! https://t.co/8Er8wcN3Kv Thanks to @Jettingin @SkyClub_com @luxuryreportng #a380 #emirates
+compound: 0.4926, 
+neg: 0.0, 
+neu: 0.79, 
+pos: 0.21, 
+@AmericanAir a different flight towards my destination is boarding, why are we still sitting here? Why are they more important?
+compound: 0.3513, 
+neg: 0.0, 
+neu: 0.88, 
+pos: 0.12, 
+I'm just going to say what everyone's thinking: what happened to the sky mall magazine..... @united @SouthwestAir @AmericanAir
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @stanleygare: Pogba just sent Coq straight back to the emirates
+compound: 0.2263, 
+neg: 0.0, 
+neu: 0.84, 
+pos: 0.16, 
+@AmericanAir speaking of glass half full of you guys wanna throw us a couple vouchers we're on vaca &amp; could use a strong glass of alcohol
+compound: 0.5106, 
+neg: 0.0, 
+neu: 0.875, 
+pos: 0.125, 
+@AmmadAlizai Remember Coutinho's freekick at Emirates? The commentary on it by Tyler haahahhaha and then his commentary for Pogbas shot
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+AM run along the beach. This is NOT normal behaviour. Florida what are you doing to me? @visitlauderdale @emirates https://t.co/WeWUFt6Jyi
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways disappointed with your level of customer service agent tells you that you can't speak to a manager and call back in 5 hours
+compound: -0.4767, 
+neg: 0.129, 
+neu: 0.871, 
+pos: 0.0, 
+Welbeck passing to the ghost that patrols the Emirates...
+compound: -0.3182, 
+neg: 0.223, 
+neu: 0.777, 
+pos: 0.0, 
+I think @flyspicejet along with Jet Airways have the most charming and courteous flight attendants. Definitely..
+compound: 0.8251, 
+neg: 0.0, 
+neu: 0.629, 
+pos: 0.371, 
+@British_Airways 1) The crew and the captain already apologized. It's OK, but doesn't solve the problem. When you are on a transoceanic...
+compound: 0.5597, 
+neg: 0.074, 
+neu: 0.67, 
+pos: 0.256, 
+Concept of Open Borders as per to O &amp; H:
+They can come to us but we're not welcome and/or safe at their countries!
+https://t.co/fiQT6L3jy6
+compound: -0.7664, 
+neg: 0.231, 
+neu: 0.769, 
+pos: 0.0, 
+@British_Airways it feels like you tried to beat @easyJet and @Ryanair and now they have improved customer service and you are miles behind
+compound: 0.6808, 
+neg: 0.0, 
+neu: 0.789, 
+pos: 0.211, 
+@AmericanAir shouldn't people who have been waiting for flights longer have a higher priority? Or is just screw us in particular?
+compound: -0.1926, 
+neg: 0.085, 
+neu: 0.915, 
+pos: 0.0, 
+@AmericanAir #pilots upset with holiday bid schedule | The Star ... - @StarTelegram (blog) : https://t.co/LpdSndQpSS
+compound: 0.0258, 
+neg: 0.16, 
+neu: 0.675, 
+pos: 0.166, 
+@jetairways is there a day when there's no congestion at Mumbai airport..?  #justwondering
+compound: -0.296, 
+neg: 0.167, 
+neu: 0.833, 
+pos: 0.0, 
+@British_Airways 2)...flight, you expect some comfortability, and I didn't had it in my two flights to Atlanta (BA228 and BA226). I know....
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Flight #EK380 (Emirates) from Dubai arrived at gate 21:25.
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Sorry @americanair about the bad pics he flew right above me so I couldn't get a great photo .
+compound: -0.8104, 
+neg: 0.391, 
+neu: 0.609, 
+pos: 0.0, 
+@British_Airways Reported the lost #luggage still not found. Always have problems w/ BA out of #LGW and #LHR.
+compound: -0.6124, 
+neg: 0.238, 
+neu: 0.762, 
+pos: 0.0, 
+RT @MzKatieCassidy: Well Carlos enjoyed his flight with @AmericanAir https://t.co/aTyPxbAsbz
+compound: 0.6597, 
+neg: 0.0, 
+neu: 0.597, 
+pos: 0.403, 
+@AirAsia having a problem booking a flight can you dm me please
+compound: -0.1027, 
+neg: 0.208, 
+neu: 0.615, 
+pos: 0.177, 
+@DaveWallsworth @British_Airways 
+
+How many litres captain`s coffee ;-)
+compound: 0.25, 
+neg: 0.0, 
+neu: 0.778, 
+pos: 0.222, 
+@British_Airways 4) Surprisingly, I had no space to open my PC while seated and I find this ridiculous. I can perfectly work in a @Ryanair..
+compound: 0.3237, 
+neg: 0.178, 
+neu: 0.597, 
+pos: 0.225, 
+@British_Airways thanks for resolving my issue BA!
+compound: 0.6996, 
+neg: 0.0, 
+neu: 0.463, 
+pos: 0.537, 
+@British_Airways Have tried to pay to reserve a seat for the last week but with no luck! When is the fault on the system going to be fixed?
+compound: -0.4295, 
+neg: 0.225, 
+neu: 0.66, 
+pos: 0.115, 
+@jetairways please check your inbox with a message from me. Bombay office isn't updating Thailand with a status of my baggage. Need clothes!
+compound: 0.3802, 
+neg: 0.0, 
+neu: 0.885, 
+pos: 0.115, 
+@British_Airways 5)...flight and it's much more cheaper. I will strongly suggest my work colleagues to avoid @British_Airways for long...
+compound: 0.0422, 
+neg: 0.107, 
+neu: 0.778, 
+pos: 0.115, 
+@AmericanAir I guess that's nice, giving people what they paid obscene amounts of money for doesn't seem to be.
+compound: 0.1027, 
+neg: 0.158, 
+neu: 0.625, 
+pos: 0.217, 
+Utaekaje OV game ya Arsenal United smh,the game at Emirates made y'all lose your thinking ability
+compound: 0.34, 
+neg: 0.13, 
+neu: 0.625, 
+pos: 0.245, 
+Hoping for a smooth @americanair flight.
+compound: 0.4215, 
+neg: 0.0, 
+neu: 0.588, 
+pos: 0.412, 
+@British_Airways 6)... flights and I will report my negative feedback to our travel agency, as I don't understand why you treat your...
+compound: -0.25, 
+neg: 0.152, 
+neu: 0.738, 
+pos: 0.111, 
+@British_Airways 7) economy class travellers this way. I cannot understand why we are left in the middle of the airfield and taken to the...
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+#UnitedArabEmirates is on Web9 - https://t.co/hINJ12N3z1 https://t.co/wjk146CijW
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@AmericanAir shouldn't you guys do maintenance on these planes BEFORE they are supposed to be in the air?
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways 8)...terminal ina a 20min. bus trip coming from a 7 hour flight (with 1:20 hour delay). I think this is not the good...
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @AmericanAir: We hopped off the plane at... https://t.co/swUUT3kq0h
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+I'm so glad I'm flying home @AmericanAir
+compound: 0.5095, 
+neg: 0.0, 
+neu: 0.646, 
+pos: 0.354, 
+@AmericanAir i'd tried your new premium economy, it looks like the same as domestic first class.. i mean like why?
+compound: 0.6124, 
+neg: 0.0, 
+neu: 0.773, 
+pos: 0.227, 
+#architecture Incredible Eco Resort in the United Arab Emirates https://t.co/3RGmmZLx6V https://t.co/862dEvqXiB
+compound: 0.4215, 
+neg: 0.0, 
+neu: 0.781, 
+pos: 0.219, 
+RT @AmericanAir: We hopped off the plane at... https://t.co/swUUT3kq0h
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+RT @nplumpton: Good night Mrs P I'm off to bed @fluffyjak @British_Airways #BAfirst https://t.co/chXHkphCm0
+compound: 0.4404, 
+neg: 0.0, 
+neu: 0.805, 
+pos: 0.195, 
+@British_Airways 9)...way to treat a customer, and I hope @AmericanAir will realise how harmfull is for them this customer care dispensed...
+compound: 0.8316, 
+neg: 0.0, 
+neu: 0.645, 
+pos: 0.355, 
+#architecture Incredible Eco Resort in the United Arab Emirates https://t.co/EtZu8nWqME https://t.co/rk696OEJol
+compound: 0.4215, 
+neg: 0.0, 
+neu: 0.781, 
+pos: 0.219, 
+Sat upstairs on a plane. Weirdest feeling... @British_Airways
+compound: -0.2263, 
+neg: 0.241, 
+neu: 0.759, 
+pos: 0.0, 
+@British_Airways 10)...by @British_Airways. That's it, as you may now know, I'm really upset with my experience with you and will not...
+compound: -0.4391, 
+neg: 0.126, 
+neu: 0.874, 
+pos: 0.0, 
+Gorgeous 8x10 Emirates Burgundy Rug Plush, High Quality Made in T... Lot 1958971 https://t.co/V0cLWUoMxW https://t.co/Hz2SkBeZKk
+compound: 0.6124, 
+neg: 0.0, 
+neu: 0.778, 
+pos: 0.222, 
+U.S. tentatively blocks @AmericanAir-#Qantas expansion - @TODAYonline : https://t.co/5XzULq65AW
+compound: -0.2263, 
+neg: 0.241, 
+neu: 0.759, 
+pos: 0.0, 
+#Emirates launches newly configured #A380 - Breaking #Travel News : https://t.co/JIR9PWmNqn
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+@British_Airways 11)...fly with your company if I'm able to avoid it. Have a nice day, and thanks for the apologies.
+compound: 0.5423, 
+neg: 0.092, 
+neu: 0.669, 
+pos: 0.238, 
+RT @ArchitecFeedd: #architecture Incredible Eco Resort in the United Arab Emirates https://t.co/EtZu8nWqME https://t.co/rk696OEJol
+compound: 0.4215, 
+neg: 0.0, 
+neu: 0.811, 
+pos: 0.189, 
+@AmericanAir are you really though? The maintenance crew you lied about earlier JUST showed up.
+compound: -0.3818, 
+neg: 0.157, 
+neu: 0.843, 
+pos: 0.0, 
+sat at our gate past departure time for them to reopen the aircraft door for a guy who was late...rules only apply sometimes @AmericanAir
+compound: 0.0, 
+neg: 0.0, 
+neu: 1.0, 
+pos: 0.0, 
+Hopefully Arsenal are returning back to Emirates with Nothing In sha Allah
+compound: 0.4019, 
+neg: 0.0, 
+neu: 0.803, 
+pos: 0.197, 
+RT @lukaspkirchner: @a380fanclub @eike92 @emirates @Airbus original source here via @airliners_de: https://t.co/Lyt18E8Nm7
+compound: 0.3182, 
+neg: 0.0, 
+neu: 0.827, 
+pos: 0.173, 
+@AmericanAir well after a getting stuck overnight in Dallas I will now miss my kids game because I will have to wait for my bag.
+compound: -0.128, 
+neg: 0.146, 
+neu: 0.769, 
+pos: 0.085, 
+@AmericanAir why do your rules only apply sometimes? Depends on who you ask whether they are helpful or not. Work on your customer service
+compound: 0.4215, 
+neg: 0.0, 
+neu: 0.891, 
+pos: 0.109, 
+RT jetairways expands #codesharepact with KenyaAirways 
+https://t.co/257i4FuYhf follow Letscontree
+compound: 0.1027, 
+neg: 0.0, 
+neu: 0.851, 
+pos: 0.149, 
+>>> 
